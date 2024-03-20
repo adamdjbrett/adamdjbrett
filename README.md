@@ -7,4 +7,4 @@
 - 🐘 find me on <a rel="me" href="https://hcommons.social/@adjb">Mastodon</a>
 - 📫 How to reach me: [adamdjbrett.com](https://adamdjbrett.com)
 
-  
+I❤️🥍&☕ 
