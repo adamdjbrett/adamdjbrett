@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning [Eleventy](https://11ty.dev/)
 - 🤔 I’m looking for help with [Jekyll](http://jekyllrb.com/)
 - 💬 Ask me about Religion and Science Fiction
-- 🐘 find me on <a rel="me" href="https://hcommons.social/@adjb">Mastodon</a>
+- 🐘 find me on Mastodon <a rel="me" href="https://hcommons.social/@adjb">@adjb</a>
+- ✔️  I am human <a rel="me" href="https://proven.lol/b5517b">provenb5517b</a>
 - 📫 How to reach me: [adamdjbrett.com](https://adamdjbrett.com)
 
   I ❤️🥍&☕ 
