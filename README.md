@@ -9,11 +9,11 @@ I ❤️🥍&☕
 - 📫 How to reach me: [adamdjbrett.com](https://adamdjbrett.com)
 
 ### Fun Open Source Projects
-- [The Mid-Geek Crsis RSS News Aggregator](https://themidgeekcrisis.app/)
-- [The Religious Studies RSS News Aggregator](https://rs-rss.com)
-- [The Religious Studies Pdocast RSS Aggregator](https://podcast.rs-rss.com)
-- [Religion Call for Papers](https://relcfp.com)
-- [Input for RELCFP](https://input.relcfp.com)
+- [The Mid-Geek Crsis RSS News Aggregator](https://themidgeekcrisis.app/) and [Github repo](https://github.com/adamdjbrett/themidgeekcrisis-app)
+- [The Religious Studies RSS News Aggregator](https://rs-rss.com) and [Github repo](https://github.com/adamdjbrett/rs-rss.com)
+- [The Religious Studies Pdocast RSS Aggregator](https://podcast.rs-rss.com) and [Github repo](https://github.com/adamdjbrett/podcasts.rs-rss.com)
+- [Religion Call for Papers](https://relcfp.com) and [Github repo](https://github.com/adamdjbrett/relcfp)
+- [Input for RELCFP](https://input.relcfp.com) and [Github repo](https://github.com/adamdjbrett/input.relcfp.com)
 
 ### Do you love lacrosse?
 - [Join the PLL Nation using my referral code below!](https://pll.gg/Eqeddqhn6Hb)
