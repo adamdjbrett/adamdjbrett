@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="819" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="834" class="">
     <defs>
         <style/>
     </defs>
@@ -218,6 +218,24 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Sid Jamieson Named Inaugural Alfie Jacques Ambassador Award Recipient | Inside Lacrosse&amp;hellip;</div>
+                                <div class="date">27 Aug 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">New Podcast Episode</div>
+                                <div class="date">27 Aug 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">We are excited for the Restore our Sacred Lake 5K, the Haudenosaunee Wooden Stick Festival and Smoke&amp;hellip;</div>
                                 <div class="date">16 Aug 2024</div>
                             </div>
@@ -229,24 +247,6 @@
                             <div class="infos">
                                 <div class="title">Haudenosaunee Wooden Stick Festival, Restore Our Sacred Lake 5K &amp;amp; Smoke Dancing </div>
                                 <div class="date">13 Aug 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Alfie Jacques Cultural Ambassador Award</div>
-                                <div class="date">8 Aug 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title"></div>
-                                <div class="date">29 Jul 2024</div>
                             </div>
                         </div>
                     </section>
@@ -842,7 +842,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Aug 2024, 11:07:22 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Aug 2024, 12:06:41 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
