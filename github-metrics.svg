@@ -218,6 +218,24 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Join us in Syracuse for the Haudenosaunee Wooden Stick Festival #laxweekend</div>
+                                <div class="date">5 Sept 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">We are counting down the days to the Restore Our Sacred Lake 5K, Haudenosaunee Wooden Stick&amp;hellip;</div>
+                                <div class="date">5 Sept 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">Sid Jamieson Named Inaugural Alfie Jacques Ambassador Award Recipient | Inside Lacrosse&amp;hellip;</div>
                                 <div class="date">27 Aug 2024</div>
                             </div>
@@ -229,24 +247,6 @@
                             <div class="infos">
                                 <div class="title">New Podcast Episode</div>
                                 <div class="date">27 Aug 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">We are excited for the Restore our Sacred Lake 5K, the Haudenosaunee Wooden Stick Festival and Smoke&amp;hellip;</div>
-                                <div class="date">16 Aug 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Haudenosaunee Wooden Stick Festival, Restore Our Sacred Lake 5K &amp;amp; Smoke Dancing </div>
-                                <div class="date">13 Aug 2024</div>
                             </div>
                         </div>
                     </section>
@@ -376,7 +376,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 180k out of 143m users</span>
+                                    <span class="gh">ranked 180k out of 142m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">104</div>
                                     </div>
@@ -526,7 +526,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 46.4k out of 203m repositories</span>
+                                    <span class="gh">ranked 46.4k out of 217m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1071</div>
                                     </div>
@@ -659,7 +659,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 844k out of 143m users</span>
+                                    <span class="gh">ranked 844k out of 142m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">18</div>
                                     </div>
@@ -746,7 +746,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.24m out of 203m repositories</span>
+                                    <span class="gh">ranked 2.24m out of 217m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">4</div>
                                     </div>
@@ -965,7 +965,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Sept 2024, 19:26:38 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Sept 2024, 20:34:14 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
