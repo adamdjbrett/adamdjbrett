@@ -218,6 +218,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">&amp;ldquo;How to Write for Faith, Spirituality, and Ministry&amp;rdquo; Four Workshops</div>
+                                <div class="date">3 Oct 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">(via Accept our king, our god − or else: The senseless...</div>
                                 <div class="date">3 Oct 2024</div>
                             </div>
@@ -238,15 +247,6 @@
                             <div class="infos">
                                 <div class="title">2025 NABPR Annual meeting</div>
                                 <div class="date">1 Oct 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">CFP: Midwest AAR Call for Papers #acrel #amrel #sblaar #aarsbl </div>
-                                <div class="date">20 Sept 2024</div>
                             </div>
                         </div>
                     </section>
@@ -338,7 +338,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 182k out of 143m users</span>
+                                    <span class="gh">ranked 182k out of 145m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">104</div>
                                     </div>
@@ -453,7 +453,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 45.5k out of 217m repositories</span>
+                                    <span class="gh">ranked 45.5k out of 183m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1106</div>
                                     </div>
@@ -586,7 +586,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 858k out of 143m users</span>
+                                    <span class="gh">ranked 858k out of 145m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">18</div>
                                     </div>
@@ -843,7 +843,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Oct 2024, 14:06:50 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Oct 2024, 15:07:39 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
