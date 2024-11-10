@@ -9,7 +9,7 @@ I ❤️🥍&☕
 - 📫 How to reach me: [adamdjbrett.com](https://adamdjbrett.com)
 
 ### Fun Open Source Projects
-- [11 Covers Theme](https://github.com/adamdjbrett/11covers-theme)
+- [11 Covers Theme](https://github.com/adamdjbrett/11covers-theme) - live example [AdamDJ.tel](https://adamdj.tel)
 - [The Mid-Geek Crisis RSS News Aggregator](https://themidgeekcrisis.app/) and [Github repo](https://github.com/adamdjbrett/themidgeekcrisis-app)
 - [The Religious Studies RSS News Aggregator](https://rs-rss.com) and [Github repo](https://github.com/adamdjbrett/rs-rss.com)
 - [The Religious Studies Podcast RSS Aggregator](https://podcast.rs-rss.com) and [Github repo](https://github.com/adamdjbrett/podcasts.rs-rss.com)
