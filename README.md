@@ -15,7 +15,7 @@ I ❤️🥍&☕
 - [The Religious Studies Podcast RSS Aggregator](https://podcast.rs-rss.com) and [Github repo](https://github.com/adamdjbrett/podcasts.rs-rss.com)
 - [Religion Call for Papers](https://relcfp.com) and [Github repo](https://github.com/adamdjbrett/relcfp)
 - [Input for RELCFP](https://input.relcfp.com) and [Github repo](https://github.com/adamdjbrett/input.relcfp.com)
-- [Theology RSS Feed](https://theological.me) and [github repo](https://github.com/adamdjbrett/theological.me)
+- [Theology RSS Feed](https://theological.me) and [Github repo](https://github.com/adamdjbrett/theological.me)
 ### Do you love lacrosse?
 - [Join the PLL Nation using my referral code below!](https://pll.gg/Eqeddqhn6Hb)
 - [PLL Merch Discount refferal link](https://refer.premierlacrosseleague.com/adam4673)
