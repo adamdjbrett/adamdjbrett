@@ -21,6 +21,3 @@ I ❤️🥍&☕
 ### Do you love lacrosse?
 - [Join the PLL Nation using my referral code below!](https://pll.gg/Eqeddqhn6Hb)
 - [PLL Merch Discount refferal link](https://refer.premierlacrosseleague.com/adam4673)
-
-
-![Metrics](/github-metrics.svg)
