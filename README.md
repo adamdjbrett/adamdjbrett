@@ -1,5 +1,5 @@
 ### Hi there 👋
-I ❤️🥍&☕ 
+I ❤️🥍 & ☕ 
 - 🔭 I’m currently working on [doctrineofdiscovery.org](https://doctrineofdiscovery.org/) and [podcast.doctrineofdiscovery.org](https://podcast.doctrineofdiscovery.org/)
 - 🌱 I’m currently learning [Eleventy](https://11ty.dev/)
 - 🤔 I’m looking for help with [Jekyll](http://jekyllrb.com/)
@@ -7,6 +7,7 @@ I ❤️🥍&☕
 - 🐘 find me on Mastodon <a rel="me" href="https://hcommons.social/@adjb">@adjb</a>
 - ✔️  I am human <a rel="me" href="https://proven.lol/b5517b">proven.lol</a>
 - 📫 How to reach me: [adamdjbrett.com](https://adamdjbrett.com)
+- 💻 my blog: [adamdjbrett.com/blog](https://www.adamdjbrett.com/blog/)
 
 ### Fun Open Source Projects
 - [11 Covers Theme](https://github.com/adamdjbrett/11covers-theme) and [Github repo](https://github.com/adamdjbrett/11covers-theme). Demos: [AdamDJ.tel](https://adamdj.tel) and [Cover](https://cover.000000076.xyz/)
