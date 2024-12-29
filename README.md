@@ -1,5 +1,5 @@
 ### Hi there 👋
-I ❤️🥍 & ☕ 
+I ❤️ 🥍 🍊 & ☕ 
 - 🔭 I’m currently working on [doctrineofdiscovery.org](https://doctrineofdiscovery.org/) and [podcast.doctrineofdiscovery.org](https://podcast.doctrineofdiscovery.org/)
 - 🌱 I’m currently learning [Eleventy](https://11ty.dev/)
 - 🤔 I’m looking for help with [Jekyll](http://jekyllrb.com/)
@@ -10,7 +10,9 @@ I ❤️🥍 & ☕
 - 💻 my blog: [adamdjbrett.com/blog](https://www.adamdjbrett.com/blog/)
 
 ### Fun Open Source Projects
-- [11 Covers Theme](https://github.com/adamdjbrett/11covers-theme) and [Github repo](https://github.com/adamdjbrett/11covers-theme). Demos: [AdamDJ.tel](https://adamdj.tel) and [Cover](https://cover.000000076.xyz/)
+- [11 Covers Theme](https://github.com/adamdjbrett/11covers-theme) and [Github repo](https://github.com/adamdjbrett/11covers-theme).
+  - Demos: [AdamDJ.tel](https://adamdj.tel) and [Cover](https://cover.000000076.xyz/)
+  - [EDDY Template for 11ty](https://eddy.000000076.xyz/)
 - [The Mid-Geek Crisis RSS News Aggregator](https://themidgeekcrisis.app/) and [Github repo](https://github.com/adamdjbrett/themidgeekcrisis-app)
 - [The Religious Studies News RSS Aggregator](https://rs-rss.com) and [Github repo](https://github.com/adamdjbrett/rs-rss.com)
 - [The Religious Studies Podcast RSS Aggregator](https://podcast.rs-rss.com) and [Github repo](https://github.com/adamdjbrett/podcasts.rs-rss.com)
