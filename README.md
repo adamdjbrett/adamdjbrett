@@ -9,10 +9,13 @@ I ❤️ 🥍 🍊 & ☕
 - 📫 How to reach me: [adamdjbrett.com](https://adamdjbrett.com)
 - 💻 my blog: [adamdjbrett.com/blog](https://www.adamdjbrett.com/blog/)
 
-### Fun Open Source Projects
+### 11ty Starters
 - [11 Covers Theme](https://github.com/adamdjbrett/11covers-theme) and [Github repo](https://github.com/adamdjbrett/11covers-theme).
-  - Demos: [AdamDJ.tel](https://adamdj.tel) and [Cover](https://cover.000000076.xyz/)
-  - [EDDY Template for 11ty](https://eddy.000000076.xyz/)
+  - Demos: [AdamDJ.tel](https://adamdj.tel) and [Stephanie M. Wyatt (tel)]([https://cover.000000076.xyz/](https://www.stephaniewyatt.tel/))
+- [EDDY Template for 11ty](https://eddy.000000076.xyz/) and [github repo](https://github.com/adamdjbrett/11ty-eddy)
+- [11ty Clean Blog by Start Boostrap](https://clean.000000076.xyz/) and [github repo](https://github.com/adamdjbrett/11ty-clean-blog-startboostrap)
+
+### Fun Open Source Projects
 - [The Mid-Geek Crisis RSS News Aggregator](https://themidgeekcrisis.app/) and [Github repo](https://github.com/adamdjbrett/themidgeekcrisis-app)
 - [The Religious Studies News RSS Aggregator](https://rs-rss.com) and [Github repo](https://github.com/adamdjbrett/rs-rss.com)
 - [The Religious Studies Podcast RSS Aggregator](https://podcast.rs-rss.com) and [Github repo](https://github.com/adamdjbrett/podcasts.rs-rss.com)
