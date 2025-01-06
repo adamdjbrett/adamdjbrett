@@ -12,7 +12,7 @@ I ❤️ 🥍 🍊 & ☕
 ### 11ty Starters
 - [11 Covers Theme](https://github.com/adamdjbrett/11covers-theme) and [Github repo](https://github.com/adamdjbrett/11covers-theme).
   - Demos: [AdamDJ.tel](https://adamdj.tel) and [Stephanie M. Wyatt (tel)](https://www.stephaniewyatt.tel/)
-- [11ty Library Resource Guide Template](https://research.000000076.xyz/)
+- [11ty Library Research Guide Template](https://research.000000076.xyz/) and [Github Repo](https://github.com/adamdjbrett/11ty-research-guide)
 - [EDDY Template for 11ty](https://eddy.000000076.xyz/) and [github repo](https://github.com/adamdjbrett/11ty-eddy)
 - [11ty Clean Blog by Start Boostrap](https://clean.000000076.xyz/) and [github repo](https://github.com/adamdjbrett/11ty-clean-blog-startboostrap)
 
