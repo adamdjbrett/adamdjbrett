@@ -16,6 +16,7 @@ I ❤️ 🥍 🍊 & ☕
 - [11ty EDDY Template](https://eddy.000000076.xyz/) and [github repo](https://github.com/adamdjbrett/11ty-eddy)
 - [11ty Journal](https://journal.000000076.xyz/) and [github repo](https://github.com/adamdjbrett/11ty-journal)
 - [11ty Research Guide](https://research.000000076.xyz/) and [github repo](https://github.com/adamdjbrett/11ty-research-guide)
+- [11ty Gets Tufte](https://tufte.000000076.xyz/) and [github repo](https://github.com/adamdjbrett/11ty-gets-tufte/)
 
 
 ### Fun Open Source Projects
