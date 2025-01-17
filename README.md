@@ -23,7 +23,7 @@ I ❤️ 🥍 🍊 & ☕
 ### Fun Open Source Projects
 - [The Mid-Geek Crisis RSS News Aggregator](https://themidgeekcrisis.app/) and [Github repo](https://github.com/adamdjbrett/themidgeekcrisis-app)
 - [The Religious Studies News RSS Aggregator](https://rs-rss.com) and [Github repo](https://github.com/adamdjbrett/rs-rss.com)
-- [The Religious Studies Podcast RSS Aggregator](https://podcast.rs-rss.com) and [Github repo](https://github.com/adamdjbrett/podcasts.rs-rss.com)
+- [The Religious Studies Podcast RSS Aggregator](https://podcasts.rs-rss.com) and [Github repo](https://github.com/adamdjbrett/podcasts.rs-rss.com)
 - [Theology RSS Feed](https://theological.me) and [Github repo](https://github.com/adamdjbrett/theological.me)
 - [Religion Call for Papers](https://relcfp.com) and [Github repo](https://github.com/adamdjbrett/relcfp)
 - [Input for RELCFP](https://input.relcfp.com) and [Github repo](https://github.com/adamdjbrett/input.relcfp.com)
