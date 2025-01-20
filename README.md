@@ -18,6 +18,7 @@ I ❤️ 🥍 🍊 & ☕
 - [11ty Research Guide](https://research.000000076.xyz/) and [github repo](https://github.com/adamdjbrett/11ty-research-guide)
 - [11ty Gets Tufte](https://tufte.000000076.xyz/) and [github repo](https://github.com/adamdjbrett/11ty-gets-tufte/)
 - [11ty Wisp theme](https://wisp.000000076.xyz/) and [github repo](https://github.com/adamdjbrett/11ty-wisp)
+- [11ty Strawberry theme](https://strawberry.000000076.xyz/) and [github repo](https://github.com/adamdjbrett/11ty-strawberry)
 
 
 ### Fun Open Source Projects
@@ -28,6 +29,9 @@ I ❤️ 🥍 🍊 & ☕
 - [Religion Call for Papers](https://relcfp.com) and [Github repo](https://github.com/adamdjbrett/relcfp)
 - [Input for RELCFP](https://input.relcfp.com) and [Github repo](https://github.com/adamdjbrett/input.relcfp.com)
 
+## Refferal Codes
+* [Namecheap](https://namecheap.pxf.io/c/5542094/1632743/5618)
+* [omg.lol](https://home.omg.lol/referred-by/adjb)
 
 ### Do you love lacrosse?
 - [Join the PLL Nation using my referral code below!](https://pll.gg/Eqeddqhn6Hb)
