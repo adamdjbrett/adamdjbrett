@@ -10,15 +10,16 @@ I ❤️ 🥍 🍊 & ☕
 - 💻 my blog: [adamdjbrett.com/blog](https://www.adamdjbrett.com/blog/)
 
 ### 11ty Starters
+- [11ty Long Reads](https://long.000000076.xyz/) and [github repo](https://github.com/adamdjbrett/11ty-long-reads)
 - [11ty Clean Blog by Start Boostrap](https://clean.000000076.xyz/) and [github repo](https://github.com/adamdjbrett/11ty-clean-blog-startboostrap)
 - [11 Covers Theme](https://github.com/adamdjbrett/11covers-theme) and [g ithub repo](https://github.com/adamdjbrett/11covers-theme).
   - Demos: [AdamDJ.tel](https://adamdj.tel) and [Stephanie M. Wyatt (tel)]([https://cover.000000076.xyz/](https://www.stephaniewyatt.tel/))
 - [11ty EDDY Template](https://eddy.000000076.xyz/) and [github repo](https://github.com/adamdjbrett/11ty-eddy)
 - [11ty Journal](https://journal.000000076.xyz/) and [github repo](https://github.com/adamdjbrett/11ty-journal)
-- [11ty Research Guide](https://research.000000076.xyz/) and [github repo](https://github.com/adamdjbrett/11ty-research-guide)
 - [11ty Gets Tufte](https://tufte.000000076.xyz/) and [github repo](https://github.com/adamdjbrett/11ty-gets-tufte/)
-- [11ty Wisp theme](https://wisp.000000076.xyz/) and [github repo](https://github.com/adamdjbrett/11ty-wisp)
 - [11ty Strawberry theme](https://strawberry.000000076.xyz/) and [github repo](https://github.com/adamdjbrett/11ty-strawberry)
+- [11ty Wisp theme](https://wisp.000000076.xyz/) and [github repo](https://github.com/adamdjbrett/11ty-wisp)
+- [11ty Research Guide](https://research.000000076.xyz/) and [github repo](https://github.com/adamdjbrett/11ty-research-guide)
 
 
 ### Fun Open Source Projects
