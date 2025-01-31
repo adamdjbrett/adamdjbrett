@@ -10,6 +10,8 @@ I ❤️ 🥍 🍊 & ☕
 - 💻 my blog: [adamdjbrett.com/blog](https://www.adamdjbrett.com/blog/)
 
 ### 11ty Starters
+
+- [🧱 11ty Brutalism Theme](https://brutalism.000000076.xyz/) and [github repo](https://github.com/adamdjbrett/11ty-brutalism)
 - [11ty Long Reads](https://long.000000076.xyz/) and [github repo](https://github.com/adamdjbrett/11ty-long-reads)
 - [11ty Clean Blog by Start Boostrap](https://clean.000000076.xyz/) and [github repo](https://github.com/adamdjbrett/11ty-clean-blog-startboostrap)
 - [11 Covers Theme](https://github.com/adamdjbrett/11covers-theme) and [g ithub repo](https://github.com/adamdjbrett/11covers-theme).
