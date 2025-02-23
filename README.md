@@ -10,15 +10,15 @@ I ❤️ 🥍 🍊 & ☕
 - 💻 my blog: [adamdjbrett.com/blog](https://www.adamdjbrett.com/blog/)
 
 ### 11ty Starters
-- [Inter/Swissfolio clone](https://inter.000000076.xyz/) and [github repo](https://github.com/adamdjbrett/11ty-inter)
-- [Monospace](https://monospace.000000076.xyz/) and [github repo](https://monospace.000000076.xyz/)
-- [Monochrome Book](https://book.000000076.xyz/) and [github repo](https://github.com/adamdjbrett/11ty-book)
-- [Imbricate (μ CSS)](https://imbricate.000000076.xyz/) and [github repo](https://github.com/adamdjbrett/11ty-imbricate)
-- [Neobrutalist](https://neobrutalist.000000076.xyz/) and [github repo](https://github.com/adamdjbrett/11ty-neobrutalist)
-- [🧱 11ty Brutalism Theme](https://brutalism.000000076.xyz/) and [github repo](https://github.com/adamdjbrett/11ty-brutalism)
+- [11ty Inter/Swissfolio clone](https://inter.000000076.xyz/) and [github repo](https://github.com/adamdjbrett/11ty-inter)
+- [11ty Monospace](https://monospace.000000076.xyz/) and [github repo](https://monospace.000000076.xyz/)
+- [11ty Monochrome Book](https://book.000000076.xyz/) and [github repo](https://github.com/adamdjbrett/11ty-book)
+- [11ty Imbricate (μ CSS)](https://imbricate.000000076.xyz/) and [github repo](https://github.com/adamdjbrett/11ty-imbricate)
+- [11ty Neobrutalist](https://neobrutalist.000000076.xyz/) and [github repo](https://github.com/adamdjbrett/11ty-neobrutalist)
+- [11ty Brutalism Theme](https://brutalism.000000076.xyz/) and [github repo](https://github.com/adamdjbrett/11ty-brutalism)
 - [11ty Long Reads](https://long.000000076.xyz/) and [github repo](https://github.com/adamdjbrett/11ty-long-reads)
 - [11ty Clean Blog by Start Boostrap](https://clean.000000076.xyz/) and [github repo](https://github.com/adamdjbrett/11ty-clean-blog-startboostrap)
-- [11 Covers Theme](https://github.com/adamdjbrett/11covers-theme) and [g ithub repo](https://github.com/adamdjbrett/11covers-theme).
+- [11ty Covers Theme](https://github.com/adamdjbrett/11covers-theme) and [g ithub repo](https://github.com/adamdjbrett/11covers-theme).
   - Demos: [AdamDJ.tel](https://adamdj.tel) and [Stephanie M. Wyatt (tel)]([https://cover.000000076.xyz/](https://www.stephaniewyatt.tel/))
 - [11ty EDDY Template](https://eddy.000000076.xyz/) and [github repo](https://github.com/adamdjbrett/11ty-eddy)
 - [11ty Journal](https://journal.000000076.xyz/) and [github repo](https://github.com/adamdjbrett/11ty-journal)
@@ -28,7 +28,7 @@ I ❤️ 🥍 🍊 & ☕
 - [11ty Research Guide](https://research.000000076.xyz/) and [github repo](https://github.com/adamdjbrett/11ty-research-guide)
 
 
-### Fun Open Source Projects
+### Fun Open Source Projects (11ty)
 - [The Mid-Geek Crisis RSS News Aggregator](https://themidgeekcrisis.app/) and [Github repo](https://github.com/adamdjbrett/themidgeekcrisis-app)
 - [The Religious Studies News RSS Aggregator](https://rs-rss.com) and [Github repo](https://github.com/adamdjbrett/rs-rss.com)
 - [The Religious Studies Podcast RSS Aggregator](https://podcasts.rs-rss.com) and [Github repo](https://github.com/adamdjbrett/podcasts.rs-rss.com)
