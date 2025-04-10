@@ -10,6 +10,7 @@ I ❤️ 🥍 🍊 & ☕
 - 💻 my blog: [adamdjbrett.com/blog](https://www.adamdjbrett.com/blog/)
 
 ### 11ty Starters
+- [11ty Shining: A Kubrick Port](https://github.com/adamdjbrett/11ty-shining-kubrick) and [github](https://github.com/adamdjbrett/11ty-shining-kubrick)
 - [11ty Inter/Swissfolio clone](https://inter.000000076.xyz/) and [github repo](https://github.com/adamdjbrett/11ty-inter)
 - [11ty Monospace](https://monospace.000000076.xyz/) and [github repo](https://monospace.000000076.xyz/)
 - [11ty Monochrome Book](https://book.000000076.xyz/) and [github repo](https://github.com/adamdjbrett/11ty-book)
