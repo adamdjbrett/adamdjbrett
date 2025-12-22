@@ -12,8 +12,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Install dependencies
-        run: sudo apt-get update && sudo apt-get install -y jq
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
@@ -31,19 +29,12 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Chicago
-          config_twemoji: yes
-          plugin_achievements: no
-          plugin_achievements_display: compact
-          plugin_achievements_secrets: no
-          plugin_achievements_threshold: C
           plugin_repositories: yes
           plugin_repositories_order: featured, pinned, starred, random
+          plugin_repositories_pinned: 5
+          plugin_repositories_starred: 5
           plugin_rss: yes
           plugin_rss_limit: 4
-          plugin_rss_source: https://www.adamdjbrett.com/feed/feed.xml
-          plugin_starlists: yes
-          plugin_starlists_limit: 2
-          plugin_starlists_limit_languages: 8
-          plugin_starlists_limit_repositories: 2
-          plugin_starlists_shuffle_repositories: yes
-          repositories_forks: yes
+          plugin_rss_source: https://adamdjbrett.com/feed/feed.xml
+          plugin_stars: yes
+          plugin_stars_limit: 4
