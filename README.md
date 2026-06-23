@@ -7,8 +7,9 @@ I ❤️ 🥍 🍊 & ☕
 - ✔️  I am human <a rel="me" href="https://proven.lol/b5517b">proven.lol</a>
 - 📫 How to reach me: [adamdjbrett.com](https://adamdjbrett.com)
 - 💻 my blog: [adamdjbrett.com/blog](https://www.adamdjbrett.com/blog/)
+- 📚 my reading log: [lemma.pub](https://lemma.pub/did:plc:3vmq5usrh3yvhbrrzf4ymo23/pub/3moxrwcbtm2cd)
 
-## Refferal Codes
+## Referral Codes
 * [Namecheap](https://namecheap.pxf.io/c/5542094/1632743/5618)
 * [omg.lol](https://home.omg.lol/referred-by/adjb)
 
