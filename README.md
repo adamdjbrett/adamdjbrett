@@ -19,10 +19,13 @@ I ❤️ 🥍 🍊 & ☕
 <!-- FEED:END -->
 
 ## Referral Codes
+| Domain name | Community app |
+| --- | ----------- |
 [Namecheap](https://namecheap.pxf.io/c/5542094/1632743/5618) | [omg.lol](https://home.omg.lol/referred-by/adjb)
 
 ### Do you love lacrosse?
-- [Join the PLL Nation using my referral code below!](https://pll.gg/Eqeddqhn6Hb)
-- [PLL Merch Discount refferal link](https://refer.premierlacrosseleague.com/adam4673)
+| PLL APP | PLL Merch |
+| --- | ----------- |
+[PLL Nation ](https://pll.gg/Eqeddqhn6Hb) | [PLL Merch](https://refer.premierlacrosseleague.com/adam4673)
 
 ![Metrics](github-metrics.svg)
