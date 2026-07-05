@@ -5,6 +5,7 @@ import email.utils
 import html
 import re
 import sys
+import urllib.error
 import urllib.request
 import xml.etree.ElementTree as ET
 from dataclasses import dataclass
@@ -70,7 +71,15 @@ def fetch(url: str) -> bytes:
 
 
 def parse_feed(url: str) -> list[Entry]:
-    root = ET.fromstring(fetch(url))
+    try:
+        root = ET.fromstring(fetch(url))
+    except urllib.error.HTTPError as error:
+        print(f"Skipping feed {url}: HTTP {error.code}", file=sys.stderr)
+        return []
+    except urllib.error.URLError as error:
+        print(f"Skipping feed {url}: {error.reason}", file=sys.stderr)
+        return []
+
     source = text(child(child(root, "channel") or root, "title")) or url
 
     items = children(child(root, "channel") or root, "item")
