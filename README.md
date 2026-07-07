@@ -11,11 +11,11 @@ I ❤️ 🥍 🍊 & ☕
 
 ## Latest Posts
 <!-- FEED:START -->
+- 2026-07-07: [Book Review: Niemoczynski, Leon J. 2017. Speculative Realism](https://lemma.pub/did:plc:3vmq5usrh3yvhbrrzf4ymo23/pub/3mpfn7klatsip/3mpztdjkkw2ij) - Spine & Style
+- 2026-07-07: [Review of Leon Niemoczynski's *Speculative Realism: An Epitome*](https://www.adamdjbrett.com/blog/speculative-realism-epitome/) - Adam DJ Brett
 - 2026-07-06: [How to Implement status.lol on BuildAwesome](https://www.adamdjbrett.com/blog/how-to-implement-status-lol-on-11ty/) - Adam DJ Brett
 - 2026-07-05: [Xmit Might Be My New Favorite Static Site Host](https://www.adamdjbrett.com/blog/xmit-vs-netlify-vercel-render/) - Adam DJ Brett
 - 2026-07-05: [Making Static Sites FAIR with metadata.json, Zotero, Eleventy, and Jekyll](https://www.adamdjbrett.com/blog/fair-signposting-metadata-json-eleventy/) - Adam DJ Brett
-- 2026-07-05: [How Build Awesome alpha, async Nunjucks, and smaller Cloudflare checks fixed my podcast build](https://www.adamdjbrett.com/blog/2026-07-05-build-awesome-cloudflare-optimization/) - Adam DJ Brett
-- 2026-07-02: [# CFP: Religion, Politics, and Cognitive Warfare: Information, Interpretation, Conspiracy, and the Struggle for Reality](https://lemma.pub/did:plc:3vmq5usrh3yvhbrrzf4ymo23/pub/3mpfn7klatsip/3mpnemo4dtsay) - Spine & Style
 <!-- FEED:END -->
 
 ## Referral Codes
