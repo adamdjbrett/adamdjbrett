@@ -11,11 +11,11 @@ I ❤️ 🥍 🍊 & ☕
 
 ## Latest Posts
 <!-- FEED:START -->
+- 2026-07-09: [11tyx5, Reprise: Build Awesome Alpha, a Whitestone Metasearch, and the Quest for Four 100s](https://www.adamdjbrett.com/blog/whitestone-v3-reprise-metasearch-fleet/) - Adam DJ Brett
 - 2026-07-08: [Easier Font Awesome SVGs in 11ty](https://www.adamdjbrett.com/blog/easier-11ty-font-awesome-svg/) - Adam DJ Brett
 - 2026-07-07: [Book Review: Niemoczynski, Leon J. 2017. Speculative Realism](https://lemma.pub/did:plc:3vmq5usrh3yvhbrrzf4ymo23/pub/3mpfn7klatsip/3mpztdjkkw2ij) - Spine & Style
 - 2026-07-07: [Review of Leon Niemoczynski's *Speculative Realism: An Epitome*](https://www.adamdjbrett.com/blog/speculative-realism-epitome/) - Adam DJ Brett
 - 2026-07-06: [How to Implement status.lol on BuildAwesome](https://www.adamdjbrett.com/blog/how-to-implement-status-lol-on-11ty/) - Adam DJ Brett
-- 2026-07-05: [Xmit Might Be My New Favorite Static Site Host](https://www.adamdjbrett.com/blog/xmit-vs-netlify-vercel-render/) - Adam DJ Brett
 <!-- FEED:END -->
 
 ## Referral Codes
