@@ -11,11 +11,11 @@ I ❤️ 🥍 🍊 & ☕
 
 ## Latest Posts
 <!-- FEED:START -->
-- 2026-07-15: [Digital Humanities Part 6: Preservation through Minimal Computing and GO::DH](https://www.adamdjbrett.com/blog/dh-part-6-minimal-computing-and-go-dh/) - Adam DJ Brett
-- 2026-07-15: [Digital Humanities Part 5: Preserving Digital Humanities Projects](https://www.adamdjbrett.com/blog/dh-part-5-preserving-digital-humanities-projects/) - Adam DJ Brett
-- 2026-07-15: [Digital Humanities Part 4: Why We Need the Digital Humanities](https://www.adamdjbrett.com/blog/dh-part-4-why-we-need-the-digital-humanities/) - Adam DJ Brett
-- 2026-07-14: [Digital Humanities Part 3: Digital Humanities for Theology and Religious Studies](https://www.adamdjbrett.com/blog/dh-part-3-digital-humanities-for-theology-and-religious-studies/) - Adam DJ Brett
-- 2026-07-14: [Digital Humanities Part 1: What Are the Digital Humanities?](https://www.adamdjbrett.com/blog/dh-part-1-what-are-the-digital-humanities/) - Adam DJ Brett
+- 2026-07-17: [Review: Critical Theory and the Authoritarian Personality](https://lemma.pub/did:plc:3vmq5usrh3yvhbrrzf4ymo23/pub/3mpfn7klatsip/3mqt2ogge5szm) - Spine & Style
+- 2026-07-17: [Review: Critical Theory of Communication: New Readings of Lukács, Adorno, Marcuse, Honneth and Habermas in the Age of the Internet](https://lemma.pub/did:plc:3vmq5usrh3yvhbrrzf4ymo23/pub/3mpfn7klatsip/3mqt2e3btc2s2) - Spine & Style
+- 2026-07-17: [Review: Critical Theory and Social Pathology](https://lemma.pub/did:plc:3vmq5usrh3yvhbrrzf4ymo23/pub/3mpfn7klatsip/3mqszu25g62pv) - Spine & Style
+- 2026-07-17: [Book Review: Mindful Design by Scott Riley](https://lemma.pub/did:plc:3vmq5usrh3yvhbrrzf4ymo23/pub/3mpfn7klatsip/3mqszhhs4fkul) - Spine & Style
+- 2026-07-17: [Review: American Philosophy and the Intellectual Migration](https://lemma.pub/did:plc:3vmq5usrh3yvhbrrzf4ymo23/pub/3mpfn7klatsip/3mqsz6ehswccs) - Spine & Style
 <!-- FEED:END -->
 
 ## Referral Codes
