@@ -11,11 +11,11 @@ I ❤️ 🥍 🍊 & ☕
 
 ## Latest Posts
 <!-- FEED:START -->
+- 2026-07-20: [Review: Frame Analysis, Critical Theory, and English Language Teaching](https://www.adamdjbrett.com/blog/frame-analysis-critical-theory-and-english-language-teaching-review/) - Adam DJ Brett
+- 2026-07-20: [Review: Frame Analysis, Critical Theory, and English Language Teaching](https://lemma.pub/did:plc:3vmq5usrh3yvhbrrzf4ymo23/pub/3mpfn7klatsip/3mr2nbpkl4kyd) - Spine & Style
 - 2026-07-19: [Review: Big Data in the Arts and Humanities—Theory and Practice](https://lemma.pub/did:plc:3vmq5usrh3yvhbrrzf4ymo23/pub/3mpfn7klatsip/3mqy6amtuakss) - Spine & Style
 - 2026-07-19: [Review: Big Data in the Arts and Humanities—Theory and Practice](https://www.adamdjbrett.com/blog/big-data-in-the-arts-and-humanities-review/) - Adam DJ Brett
 - 2026-07-19: [Review: Another Universalism—Seyla Benhabib and the Future of Critical Theory"](https://lemma.pub/did:plc:3vmq5usrh3yvhbrrzf4ymo23/pub/3mpfn7klatsip/3mqy637s4acnq) - Spine & Style
-- 2026-07-19: [Review: Another Universalism—Seyla Benhabib and the Future of Critical Theory](https://www.adamdjbrett.com/blog/another-universalism-seyla-benhabib-review/) - Adam DJ Brett
-- 2026-07-17: [Review: Critical Theory and the Authoritarian Personality](https://lemma.pub/did:plc:3vmq5usrh3yvhbrrzf4ymo23/pub/3mpfn7klatsip/3mqt2ogge5szm) - Spine & Style
 <!-- FEED:END -->
 
 ## Referral Codes
