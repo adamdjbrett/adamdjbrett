@@ -11,11 +11,11 @@ I ❤️ 🥍 🍊 & ☕
 
 ## Latest Posts
 <!-- FEED:START -->
+- 2026-08-30: [Five Lessons Indieweb Developers Can Learn from Ken Hawkins](https://www.adamdjbrett.com/blog/five-lessons-from-ken-hawkins/) - Adam DJ Brett
 - 2026-08-13: [TIDEL Conference: Racial Justice in the Digital Public Square Presentation](https://www.adamdjbrett.com/blog/2026-08-13-tidel/) - Adam DJ Brett
 - 2026-08-13: [The 11th Annual Haudenosaunee Wooden Stick Festival Weekend: A Dinner, a Run, and the Creator's Game at Onondaga Lake](https://www.adamdjbrett.com/blog/2026-08-13-haudenosaunee-wooden-stick-festival-weekend-2026/) - Adam DJ Brett
 - 2026-07-30: [Two Domains, One Build: Hosting .ngo and .ong Together with Eleventy and xmit](https://www.adamdjbrett.com/blog/two-domains-one-build-eleventy-xmit/) - Adam DJ Brett
 - 2026-07-21: [Writing Support Resources](https://www.adamdjbrett.com/blog/writing-support-resources/) - Adam DJ Brett
-- 2026-07-21: [Apps and Tools for Research and Writing](https://www.adamdjbrett.com/blog/scholarly-apps-and-tools/) - Adam DJ Brett
 <!-- FEED:END -->
 
 ## Referral Codes
