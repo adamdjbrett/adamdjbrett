@@ -11,11 +11,11 @@ I ❤️ 🥍 🍊 & ☕
 
 ## Latest Posts
 <!-- FEED:START -->
-- 2026-09-19: [What is American Pragmatism](https://www.adamdjbrett.com/blog/what-is-pragamatism/) - Adam DJ Brett
-- 2026-09-05: [A Summer of Plumbing: JCRT, KC Works, and the Build Awesome Builds](https://www.adamdjbrett.com/blog/jcrt-kcworks-buildawesome-update/) - Adam DJ Brett
-- 2026-09-04: [A Cable of Many Fibers: An Overview of Pragmatism for Graduate Students in the Humanities and Social Sciences](https://www.adamdjbrett.com/blog/pragmatism-graduate-introduction/) - Adam DJ Brett
-- 2026-08-30: [Five Lessons Indieweb Developers Can Learn from Ken Hawkins](https://www.adamdjbrett.com/blog/five-lessons-from-ken-hawkins/) - Adam DJ Brett
-- 2026-08-13: [TIDEL Conference: Racial Justice in the Digital Public Square Presentation](https://www.adamdjbrett.com/blog/2026-08-13-tidel/) - Adam DJ Brett
+- 2026-09-30: [The Postmodern Terminal: An Experiment with Gemini](https://www.adamdjbrett.com/blog/2026-09-30-the-postmodern-terminal-gemini/) - Adam DJ Brett
+- 2026-09-30: [This Week: Religion, Politics, and Cognitive Warfare](https://www.adamdjbrett.com/blog/2026-09-30-religion-politics-cognitive-warfare/) - Adam DJ Brett
+- 2026-09-30: [TIDEL Is This Week](https://www.adamdjbrett.com/blog/2026-09-30-tidel-this-week/) - Adam DJ Brett
+- 2026-09-30: [New Essay: Theorizing the Human Sciences in the Age of Absolute Disruption](https://www.adamdjbrett.com/blog/2026-09-30-theorizing-the-human-sciences/) - Adam DJ Brett
+- 2026-09-30: [New Publication: Sacralizing Dominion](https://www.adamdjbrett.com/blog/2026-09-30-sacralizing-dominion/) - Adam DJ Brett
 <!-- FEED:END -->
 
 ## Referral Codes
