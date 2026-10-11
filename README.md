@@ -11,11 +11,11 @@ I ❤️ 🥍 🍊 & ☕
 
 ## Latest Posts
 <!-- FEED:START -->
-- 2026-09-30: [The Postmodern Terminal: An Experiment with Gemini](https://www.adamdjbrett.com/blog/2026-09-30-the-postmodern-terminal-gemini/) - Adam DJ Brett
-- 2026-09-30: [This Week: Religion, Politics, and Cognitive Warfare](https://www.adamdjbrett.com/blog/2026-09-30-religion-politics-cognitive-warfare/) - Adam DJ Brett
-- 2026-09-30: [TIDEL Is This Week](https://www.adamdjbrett.com/blog/2026-09-30-tidel-this-week/) - Adam DJ Brett
-- 2026-09-30: [New Essay: Theorizing the Human Sciences in the Age of Absolute Disruption](https://www.adamdjbrett.com/blog/2026-09-30-theorizing-the-human-sciences/) - Adam DJ Brett
-- 2026-09-30: [New Publication: Sacralizing Dominion](https://www.adamdjbrett.com/blog/2026-09-30-sacralizing-dominion/) - Adam DJ Brett
+- 2026-10-06: [Which Passport Do You Travel Under?: Toward a Borderless Public Theology](https://www.adamdjbrett.com/blog/2026-10-06-borderless-public-theology/) - Adam DJ Brett
+- 2026-10-06: [Professors Without Passports: A Cosmopolitan Public Theological Pedagogy](https://www.adamdjbrett.com/blog/2026-10-06-a-cosmopolitan-public-theological-pedagogy/) - Adam DJ Brett
+- 2026-10-06: [Theologians Without Passports: Towards a Cosmopolitan Public Theology](https://www.adamdjbrett.com/blog/2026-10-06-towards-a-cosmopolitan-public-theology/) - Adam DJ Brett
+- 2026-10-06: [Whose Public? Which Theology?: On What We Mean by Public Theology](https://www.adamdjbrett.com/blog/2026-10-06-what-is-public-theology/) - Adam DJ Brett
+- 2026-10-05: [Welcome to Public Theology](https://www.adamdjbrett.com/blog/2026-10-05-welcome-to-public-theology/) - Adam DJ Brett
 <!-- FEED:END -->
 
 ## Referral Codes
