@@ -11,11 +11,11 @@ I ❤️ 🥍 🍊 & ☕
 
 ## Latest Posts
 <!-- FEED:START -->
+- 2026-10-23: [Invisible Hands, Visible Networks: An Digital Humanities Student Blog Roundup](https://www.adamdjbrett.com/blog/2026-10-23-ht930-student-blog-roundup/) - Adam DJ Brett
 - 2026-10-22: [The internet used to be a library and now it's a store.](https://www.adamdjbrett.com/blog/the-internet-used-to-be-a-library/) - Adam DJ Brett
+- 2026-10-22: [It All Begins with the Stick](https://www.adamdjbrett.com/blog/2026-10-21-it-starts-with-a-stick/) - Adam DJ Brett
 - 2026-10-06: [Which Passport Do You Travel Under?: Toward a Borderless Public Theology](https://www.adamdjbrett.com/blog/2026-10-06-borderless-public-theology/) - Adam DJ Brett
 - 2026-10-06: [Professors Without Passports: A Cosmopolitan Public Theological Pedagogy](https://www.adamdjbrett.com/blog/2026-10-06-a-cosmopolitan-public-theological-pedagogy/) - Adam DJ Brett
-- 2026-10-06: [Theologians Without Passports: Towards a Cosmopolitan Public Theology](https://www.adamdjbrett.com/blog/2026-10-06-towards-a-cosmopolitan-public-theology/) - Adam DJ Brett
-- 2026-10-06: [Whose Public? Which Theology?: On What We Mean by Public Theology](https://www.adamdjbrett.com/blog/2026-10-06-what-is-public-theology/) - Adam DJ Brett
 <!-- FEED:END -->
 
 ## Referral Codes
