@@ -11,11 +11,11 @@ I ❤️ 🥍 🍊 & ☕
 
 ## Latest Posts
 <!-- FEED:START -->
+- 2026-11-04: [Getting Started with the Tildeverse: Old-School Homepages with Modern CSS](https://www.adamdjbrett.com/blog/2026-11-03-getting-started-with-the-tildeverse-homepages-modern-css/) - Adam DJ Brett
+- 2026-11-04: [Getting Started with WordPress on Knowledge Commons for Your Academic Site](https://www.adamdjbrett.com/blog/getting-started-wordpress-knowledge-commons/) - Adam DJ Brett
+- 2026-11-03: [Getting Started with Dublin Core: Fifteen Fields That Make Things Findable](https://www.adamdjbrett.com/blog/2026-11-02-getting-started-with-dublin-core-fifteen-fields-findable/) - Adam DJ Brett
 - 2026-11-02: [Getting Started with Omeka: Classic, S, or Omeka.net?](https://www.adamdjbrett.com/blog/2026-11-02-getting-started-with-omeka-classic-s-or-omeka-net/) - Adam DJ Brett
 - 2026-11-02: [Where Should I Blog? A Field Guide from Corporate Platforms to the IndieWeb](https://www.adamdjbrett.com/blog/2026-11-02-where-should-i-blog-field-guide-corporate-platforms-indieweb/) - Adam DJ Brett
-- 2026-11-01: [Who Owns the Coffeehouse? Habermas, Subscription Culture, and the Case for Digital Third Spaces](https://www.adamdjbrett.com/blog/who-owns-the-coffeehouse-habermas-digital-third-spaces/) - Adam DJ Brett
-- 2026-10-26: [Annoucing: JCREOR 7.1 on the Sources of Religious Nationalism](https://www.adamdjbrett.com/blog/2026-10-26-sources-of-religious-nationalism-jcreor/) - Adam DJ Brett
-- 2026-10-23: [Invisible Hands, Visible Networks: An Digital Humanities Student Blog Roundup](https://www.adamdjbrett.com/blog/2026-10-23-ht930-student-blog-roundup/) - Adam DJ Brett
 <!-- FEED:END -->
 
 ## Referral Codes
