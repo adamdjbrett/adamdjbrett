@@ -11,11 +11,11 @@ I ❤️ 🥍 🍊 & ☕
 
 ## Latest Posts
 <!-- FEED:START -->
+- 2026-11-24: [Getting Started with Integrating CMSs into #11ty and #BuildAwesome](https://www.adamdjbrett.com/blog/2026-11-24-getting-started-integrating-cms-11ty-build-awesome/) - Adam DJ Brett
+- 2026-11-24: [Turning a Journal Article into a Podcast](https://www.adamdjbrett.com/blog/2026-11-23-journal-article-podcast/) - Adam DJ Brett
 - 2026-11-21: [Brian Bennett interviews James McGrath about Real Intelligence](https://www.adamdjbrett.com/blog/2026-11-21-brian-bennett-james-mcgrath-real-intelligence/) - Adam DJ Brett
 - 2026-11-16: [Getting Started with #11ty and #BuildAwesome](https://www.adamdjbrett.com/blog/2026-11-16-getting-started-11ty-build-awesome/) - Adam DJ Brett
 - 2026-11-15: [Leaving the Corporate Web: A Practical Return to the Independent Web](https://www.adamdjbrett.com/blog/2026-11-15-leaving-corporate-web-practical-return-to-independent-web/) - Adam DJ Brett
-- 2026-11-04: [Digital Humanities at ULS: Archives, Memory, and Shared Responsibility](https://www.adamdjbrett.com/blog/2026-11-04-ht930-student-blog-roundup/) - Adam DJ Brett
-- 2026-11-04: [Getting Started with the Tildeverse: Old-School Homepages with Modern CSS](https://www.adamdjbrett.com/blog/2026-11-03-getting-started-with-the-tildeverse-homepages-modern-css/) - Adam DJ Brett
 <!-- FEED:END -->
 
 ## Referral Codes
