@@ -11,11 +11,11 @@ I ❤️ 🥍 🍊 & ☕
 
 ## Latest Posts
 <!-- FEED:START -->
-- 2026-11-24: [Getting Started with Integrating CMSs into #11ty and #BuildAwesome](https://www.adamdjbrett.com/blog/2026-11-24-getting-started-integrating-cms-11ty-build-awesome/) - Adam DJ Brett
+- 2026-11-27: [Eleventy on Cloudflare Workers: One wrangler.jsonc and the Build Errors I Hit](https://www.adamdjbrett.com/blog/eleventy-cloudflare-workers-wrangler/) - Adam DJ Brett
+- 2026-11-24: [Getting Started with Integrating CMS's into #11ty and #BuildAwesome](https://www.adamdjbrett.com/blog/2026-11-24-getting-started-integrating-cms-11ty-build-awesome/) - Adam DJ Brett
 - 2026-11-24: [Turning a Journal Article into a Podcast](https://www.adamdjbrett.com/blog/2026-11-23-journal-article-podcast/) - Adam DJ Brett
 - 2026-11-21: [Brian Bennett interviews James McGrath about Real Intelligence](https://www.adamdjbrett.com/blog/2026-11-21-brian-bennett-james-mcgrath-real-intelligence/) - Adam DJ Brett
 - 2026-11-16: [Getting Started with #11ty and #BuildAwesome](https://www.adamdjbrett.com/blog/2026-11-16-getting-started-11ty-build-awesome/) - Adam DJ Brett
-- 2026-11-15: [Leaving the Corporate Web: A Practical Return to the Independent Web](https://www.adamdjbrett.com/blog/2026-11-15-leaving-corporate-web-practical-return-to-independent-web/) - Adam DJ Brett
 <!-- FEED:END -->
 
 ## Referral Codes
